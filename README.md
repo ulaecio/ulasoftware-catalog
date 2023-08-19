@@ -1,5 +1,6 @@
 # Ulasoftware catalog
-Projeto Catálogo de Produtos - é uma aplicação FullStack Web e Mobile sendo construída com atualização de aprendizados. Através de Cursos
+Projeto Catálogo de Produtos - é uma aplicação FullStack Web e Mobile sendo construída com atualização de aprendizados através de Cursos.
+
 Mais detalhes posteriormente...
 Veja a evolução do projeto: https://ulaecio-catalog.netlify.app
 ## imagens
