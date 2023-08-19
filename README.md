@@ -1,4 +1,4 @@
-# dscatalog-bootcamp
+# Ulasoftware catalog
 Projeto Catálogo de Produtos - é uma aplicação FullStack Web e Mobile sendo construída com atualização de aprendizados. Através de Cursos
 Mais detalhes posteriormente...
 Veja a evolução do projeto: https://ulaecio-catalog.netlify.app
